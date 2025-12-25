@@ -79,7 +79,7 @@ function App() {
   },
   {
       path: '/ats',
-      element: <ProtectedRoute><ATS /></ProtectedRoute>
+      element: <ATS />
   },
   {
   path: "*",
