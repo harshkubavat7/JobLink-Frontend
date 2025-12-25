@@ -30,6 +30,8 @@ node_modules/
 .env
 .env.local
 .env.*.local
+.env.development
+.env.production
 
 # Optional: Ignore build/dist folders
 dist/
